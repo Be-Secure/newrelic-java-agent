@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="4.7.3" sequence="0" timestamp="1704532793642" analysisTimestamp="1704532793642" release="">
+<BugCollection version="4.7.3" sequence="0" timestamp="1704619213093" analysisTimestamp="1704619213093" release="">
   <Project projectName="agent-bridge (spotbugsMain)">
     <Jar>/home/runner/work/newrelic-java-agent/newrelic-java-agent/agent-bridge/build/classes/java/main/com/newrelic/api/agent/DistributedTraceParser.class</Jar>
     <Jar>/home/runner/work/newrelic-java-agent/newrelic-java-agent/agent-bridge/build/classes/java/main/com/newrelic/api/agent/weaver/CatchAndLog.class</Jar>
@@ -100,7 +100,7 @@
     <SrcDir>/home/runner/work/newrelic-java-agent/newrelic-java-agent/agent-bridge/src/main/java</SrcDir>
   </Project>
   <Errors errors="0" missingClasses="0"></Errors>
-  <FindBugsSummary timestamp="Sat, 6 Jan 2024 09:19:53 +0000" total_classes="0" referenced_classes="0" total_bugs="0" total_size="0" num_packages="0" java_version="1.8.0_392" vm_version="25.392-b08" cpu_seconds="11.75" clock_seconds="11.54" peak_mbytes="215.38" alloc_mbytes="910.50" gc_seconds="0.39">
+  <FindBugsSummary timestamp="Sun, 7 Jan 2024 09:20:13 +0000" total_classes="0" referenced_classes="0" total_bugs="0" total_size="0" num_packages="0" java_version="1.8.0_392" vm_version="25.392-b08" cpu_seconds="11.92" clock_seconds="11.24" peak_mbytes="216.40" alloc_mbytes="910.50" gc_seconds="0.37">
     <FindBugsProfile></FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>
