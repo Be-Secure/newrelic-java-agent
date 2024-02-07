@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="4.7.3" sequence="0" timestamp="1707211261477" analysisTimestamp="1707211261477" release="">
+<BugCollection version="4.7.3" sequence="0" timestamp="1707297727458" analysisTimestamp="1707297727458" release="">
   <Project projectName="agent-bridge (spotbugsMain)">
     <Jar>/home/runner/work/newrelic-java-agent/newrelic-java-agent/agent-bridge/build/classes/java/main/com/newrelic/agent/bridge/CrossProcessState.class</Jar>
     <Jar>/home/runner/work/newrelic-java-agent/newrelic-java-agent/agent-bridge/build/classes/java/main/com/newrelic/agent/bridge/AgentBridge$1.class</Jar>
@@ -100,7 +100,7 @@
     <SrcDir>/home/runner/work/newrelic-java-agent/newrelic-java-agent/agent-bridge/src/main/java</SrcDir>
   </Project>
   <Errors errors="0" missingClasses="0"></Errors>
-  <FindBugsSummary timestamp="Tue, 6 Feb 2024 09:21:01 +0000" total_classes="0" referenced_classes="0" total_bugs="0" total_size="0" num_packages="0" java_version="1.8.0_402" vm_version="25.402-b06" cpu_seconds="11.70" clock_seconds="11.41" peak_mbytes="217.57" alloc_mbytes="910.50" gc_seconds="0.33">
+  <FindBugsSummary timestamp="Wed, 7 Feb 2024 09:22:07 +0000" total_classes="0" referenced_classes="0" total_bugs="0" total_size="0" num_packages="0" java_version="1.8.0_402" vm_version="25.402-b06" cpu_seconds="11.93" clock_seconds="11.94" peak_mbytes="216.97" alloc_mbytes="910.50" gc_seconds="0.35">
     <FindBugsProfile></FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>
