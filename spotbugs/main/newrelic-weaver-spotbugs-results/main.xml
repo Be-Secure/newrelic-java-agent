@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="4.7.3" sequence="0" timestamp="1711617722199" analysisTimestamp="1711617722199" release="">
+<BugCollection version="4.7.3" sequence="0" timestamp="1711704068542" analysisTimestamp="1711704068542" release="">
   <Project projectName="newrelic-weaver (spotbugsMain)">
     <Jar>/home/runner/work/newrelic-java-agent/newrelic-java-agent/newrelic-weaver/build/classes/java/main/com/newrelic/weave/MethodProcessors$9.class</Jar>
     <Jar>/home/runner/work/newrelic-java-agent/newrelic-java-agent/newrelic-weaver/build/classes/java/main/com/newrelic/weave/PreparedMatch$AnnotationInfo.class</Jar>
@@ -151,7 +151,7 @@
     <SrcDir>/home/runner/work/newrelic-java-agent/newrelic-java-agent/newrelic-weaver/src/main/java</SrcDir>
   </Project>
   <Errors errors="0" missingClasses="0"></Errors>
-  <FindBugsSummary timestamp="Thu, 28 Mar 2024 09:22:02 +0000" total_classes="0" referenced_classes="0" total_bugs="0" total_size="0" num_packages="0" java_version="1.8.0_402" vm_version="25.402-b06" cpu_seconds="26.51" clock_seconds="15.92" peak_mbytes="408.79" alloc_mbytes="910.50" gc_seconds="0.61">
+  <FindBugsSummary timestamp="Fri, 29 Mar 2024 09:21:08 +0000" total_classes="0" referenced_classes="0" total_bugs="0" total_size="0" num_packages="0" java_version="1.8.0_402" vm_version="25.402-b06" cpu_seconds="25.84" clock_seconds="15.12" peak_mbytes="409.32" alloc_mbytes="910.50" gc_seconds="0.57">
     <FindBugsProfile></FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>
