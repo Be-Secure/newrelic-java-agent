@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="4.7.3" sequence="0" timestamp="1712049717781" analysisTimestamp="1712049717781" release="">
+<BugCollection version="4.7.3" sequence="0" timestamp="1712136101016" analysisTimestamp="1712136101016" release="">
   <Project projectName="agent-model (spotbugsMain)">
     <Jar>/home/runner/work/newrelic-java-agent/newrelic-java-agent/agent-model/build/classes/java/main/com/newrelic/agent/model/AttributeFilter$PassEverythingAttributeFilter.class</Jar>
     <Jar>/home/runner/work/newrelic-java-agent/newrelic-java-agent/agent-model/build/classes/java/main/com/newrelic/agent/model/SpanEvent$1.class</Jar>
@@ -27,7 +27,7 @@
     <SrcDir>/home/runner/work/newrelic-java-agent/newrelic-java-agent/agent-model/src/main/java</SrcDir>
   </Project>
   <Errors errors="0" missingClasses="0"></Errors>
-  <FindBugsSummary timestamp="Tue, 2 Apr 2024 09:21:57 +0000" total_classes="0" referenced_classes="0" total_bugs="0" total_size="0" num_packages="0" java_version="1.8.0_402" vm_version="25.402-b06" cpu_seconds="8.70" clock_seconds="9.26" peak_mbytes="175.17" alloc_mbytes="910.50" gc_seconds="0.23">
+  <FindBugsSummary timestamp="Wed, 3 Apr 2024 09:21:41 +0000" total_classes="0" referenced_classes="0" total_bugs="0" total_size="0" num_packages="0" java_version="1.8.0_402" vm_version="25.402-b06" cpu_seconds="8.48" clock_seconds="8.83" peak_mbytes="162.66" alloc_mbytes="910.50" gc_seconds="0.34">
     <FindBugsProfile></FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>
