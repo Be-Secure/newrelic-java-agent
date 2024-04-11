@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<BugCollection version="4.7.3" sequence="0" timestamp="1712741025252" analysisTimestamp="1712741025252" release="">
+<BugCollection version="4.7.3" sequence="0" timestamp="1712827313986" analysisTimestamp="1712827313986" release="">
   <Project projectName="agent-bridge (spotbugsMain)">
     <Jar>/home/runner/work/newrelic-java-agent/newrelic-java-agent/agent-bridge/build/classes/java/main/com/newrelic/agent/bridge/NoOpPrivateApi.class</Jar>
     <Jar>/home/runner/work/newrelic-java-agent/newrelic-java-agent/agent-bridge/build/classes/java/main/com/newrelic/agent/bridge/NoOpToken.class</Jar>
@@ -100,7 +100,7 @@
     <SrcDir>/home/runner/work/newrelic-java-agent/newrelic-java-agent/agent-bridge/src/main/java</SrcDir>
   </Project>
   <Errors errors="0" missingClasses="0"></Errors>
-  <FindBugsSummary timestamp="Wed, 10 Apr 2024 09:23:45 +0000" total_classes="0" referenced_classes="0" total_bugs="0" total_size="0" num_packages="0" java_version="1.8.0_402" vm_version="25.402-b06" cpu_seconds="11.87" clock_seconds="10.93" peak_mbytes="219.28" alloc_mbytes="910.50" gc_seconds="0.37">
+  <FindBugsSummary timestamp="Thu, 11 Apr 2024 09:21:53 +0000" total_classes="0" referenced_classes="0" total_bugs="0" total_size="0" num_packages="0" java_version="1.8.0_402" vm_version="25.402-b06" cpu_seconds="12.64" clock_seconds="12.06" peak_mbytes="219.11" alloc_mbytes="910.50" gc_seconds="0.35">
     <FindBugsProfile></FindBugsProfile>
   </FindBugsSummary>
   <ClassFeatures></ClassFeatures>
